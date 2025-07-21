@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+backtesting/data.csv
+backtesting/data2.csv
+kite-holdings-analysis/holdings.csv
